@@ -1,0 +1,15 @@
+INFO:root:Program evaluation has been started
+CRITICAL:root:critical error occured due to division by a zero
+INFO:root:Evaluation has been ended
+2025-09-23 00:39:09,872
+2025-09-23 00:39:09,873
+2025-09-23 00:39:09,873
+2025-09-23 00:41:28,332 - INFO - Program evaluation has been started
+2025-09-23 00:41:28,332 - CRITICAL - critical error occured due to division by a zero
+2025-09-23 00:41:28,332 - INFO - Evaluation has been ended
+2025-09-23 00:42:03,735 - INFO - Program evaluation has been started - root
+2025-09-23 00:42:03,735 - CRITICAL - critical error occured due to division by a zero - root
+2025-09-23 00:42:03,735 - INFO - Evaluation has been ended - root
+2025-09-23 00:42:53,616 - INFO - Program evaluation has been started - root - logging_learning.py
+2025-09-23 00:42:53,621 - CRITICAL - critical error occured due to division by a zero - root - logging_learning.py
+2025-09-23 00:42:53,621 - INFO - Evaluation has been ended - root - logging_learning.py
