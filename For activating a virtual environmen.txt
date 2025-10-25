@@ -1,0 +1,15 @@
+For activating a virtual environment
+
+python -m venv name
+
+ACTIVATING
+name\Scripts\activate
+
+DEACTIVATING
+deactivate
+
+PIP
+
+pip install package name
+pip freeze > name.txt    (for writing all the packages names present in the environment)
+pip install -r name.txt ( to download all the packages with the same version by a txt file) 
